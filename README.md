@@ -13,6 +13,7 @@ Uma aplicação web para gerar gráficos interativos a partir de arquivos CSV. F
 - Pip
 
 ## Estrutura do projeto
+```
 csv-graph-generator/
 │
 ├── app.py                # Código principal da aplicação
@@ -21,7 +22,7 @@ csv-graph-generator/
 ├── csvs/                 # Pasta para colocar arquivos CSV
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Este arquivo
-
+```
 > A pasta `csvs/` deve conter os arquivos CSV que você deseja visualizar.
 
 ## Instalação
